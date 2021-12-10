@@ -19,9 +19,9 @@ import java.util.List;
  * @author Arman Karapetyan
  */
 
-public class XmlParser {
+public class XmlParser implements Parseable {
 
-    public List<Employee> XmlParseToClass(String url) {
+    public List<Employee> ParseToListOfClass(String url) {
 
         List<Employee> employees = new ArrayList<>();
         File file = new File(url);

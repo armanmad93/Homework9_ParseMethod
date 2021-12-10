@@ -1,7 +1,23 @@
 {
-  "id": 1,
-  "firstname": "Minas",
-  "lastname": "Poxosyan",
-  "salary": 250000
+  "Employees": [
+    {
+      "id": 1,
+      "firstname": "Minas",
+      "lastname": "Poxosyan",
+      "salary": 250000
+    },
+    {
+      "id": 2,
+      "firstname": "Hasmik",
+      "lastname": "Manasyan",
+      "salary": 750000
+    },
+    {
+      "id": 3,
+      "firstname": "Lilit",
+      "lastname": "Kirakosyan",
+      "salary": 150000
+    }
+  ]
 }
 
