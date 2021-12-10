@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<company>
+    <employee id="1">
+        <firstname>Arman</firstname>
+        <lastname>Karapetyan</lastname>
+        <salary>1000000</salary>
+    </employee>
+    <employee id="2">
+        <firstname>Diana</firstname>
+        <lastname>Muradyan</lastname>
+        <salary>500000</salary>
+    </employee><employee id="3">
+        <firstname>Ruzanna</firstname>
+        <lastname>Petrosyan</lastname>
+        <salary>300000</salary>
+    </employee>
+</company>
